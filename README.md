@@ -33,7 +33,22 @@ After filtering the data to regional-level rows and summing missed submissions a
 
 This result suggests uneven reporting patterns across regions.
 
-#### 
+
+####  Why missed submissions matter
+
+If an organisation does not submit Community Health Services (CHS) data:
+
+- its patients are effectively invisible in that month’s statistics  
+- national and regional figures may under-represent true demand  
+- decision-makers may underestimate pressure on services  
+
+This introduces **data quality and governance risk**, not just a technical reporting issue.
+
+In practical terms:
+
+- planners may assume waiting lists are shorter than they really are  
+- resources may be misallocated  
+- problems may surface later as crises rather than being identified and managed early  
 
 #### **Important limitations**
 
