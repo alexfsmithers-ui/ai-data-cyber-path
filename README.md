@@ -4,6 +4,8 @@
 
 This project explores a publicly available NHS dataset on Community Health Services waiting times. The aim was not to build a predictive model, but to understand how reporting gaps appear in real-world operational data and how easily such data could be misinterpreted if used carelessly.
 
+- View the full analysis notebook: [Day 1 – NHS waiting times analysis](notebooks/day1_nhs_waiting_times.ipynb)
+
 
 
 #### **Data used**
@@ -40,7 +42,9 @@ This question was chosen because missing data itself can be a risk signal, espec
 
 After filtering the data to regional-level rows and summing missed submissions across months, one region (North West) stood out with substantially more missing submissions than others. Several regions showed occasional gaps, while at least one region showed no missing submissions during the period covered.
 
+## Key chart
 
+![Total missing submissions by region](images/chart_missing_submissions_by_region.png)
 
 This result suggests uneven reporting patterns across regions.
 
