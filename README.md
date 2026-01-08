@@ -5,6 +5,7 @@
 This project explores a publicly available NHS dataset on Community Health Services waiting times. The aim was not to build a predictive model, but to understand how reporting gaps appear in real-world operational data and how easily such data could be misinterpreted if used carelessly.
 
 - View the full analysis notebook: [Day 1 – NHS waiting times analysis](notebooks/day1_nhs_waiting_times.ipynb)
+- Data source (NHS): https://www.england.nhs.uk/statistics/statistical-work-areas/community-health-services-waiting-lists/
 
 
 
